@@ -1,0 +1,52 @@
+.custom-navbar {
+    background-color: #06421de3;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #FFFFFF; 
+    font-family: 'Arial', sans-serif; 
+    font-weight: bold; 
+}
+
+.navbar-brand {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.logo-sm {
+    width: 50px; 
+    height: auto; 
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif; 
+    color: #333; 
+}
+
+
+.btn-custom {
+    background-color: #ffc107; 
+    border-color: #ffc107; 
+}
+
+.btn-custom:hover {
+    background-color: #ffca28; 
+    border-color: #ffca28; 
+}
+
+.help-section {
+    background-color: #f8f9fa; 
+    padding: 50px 0; 
+}
+
+.video-background {
+    position: relative;
+    overflow: hidden;
+}
+
+.video-fluid {
+    width: 100%;
+    height: auto;
+}
+
+
+
